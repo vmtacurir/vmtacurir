@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
  <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -33,7 +34,8 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
-</div>
+</div> 
+-->
 <!--<h1 align="center">Hi 👋, I'm Victor Manuel Tacuri Rengifo</h1>-->
 <h3 align="center">USFX | Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca</h3>
 
