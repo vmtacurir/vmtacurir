@@ -50,3 +50,5 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+
+![Snake animation](https://github.com/vmtacurir/vmtacurir/blob/output/github-contribution-grid-snake.svg)
