@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Manuel+Tacuri+Rengifo;USFX+|+Universidad+Mayor+,+Real+y+Pontificia+de+San+Francisco+Xavier+de+Chuquisaca+from Bolivia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Manuel+Tacuri+Rengifo;Universidad+Mayor,+Real+y+Pontificia+de+San+Francisco+Xavier+de+Chuquisaca+from+Bolivia)](https://git.io/typing-svg)
 
 
 
