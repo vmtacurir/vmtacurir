@@ -3,7 +3,7 @@
 
 
 
-### Hi there My name is Victor Manuel Tacuri Rengifo 👋
+<!-- ### Hi there My name is Victor Manuel Tacuri Rengifo 👋-->
 
 <!--
 **vmtacurir/vmtacurir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
-<h1 align="center">Hi 👋, I'm Victor Manuel Tacuri Rengifo</h1>
+<!--<h1 align="center">Hi 👋, I'm Victor Manuel Tacuri Rengifo</h1>-->
 <h3 align="center">USFX | Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca</h3>
 
 
