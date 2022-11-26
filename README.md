@@ -1,6 +1,6 @@
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Manuel+Tacuri+Rengifo;USFX)](https://git.io/typing-svg)
-</p>
+
 
 
 ### Hi there My name is Victor Manuel Tacuri Rengifo 👋
