@@ -50,12 +50,3 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
-
-<p align="center">
-    <a href="https://github.com/leviarista">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviarista&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
-    </a>
-    <a href="https://github.com/vmtacurir">
-      <img align="top" src="https://github-readme-stats.vercel.app/api?username=leviarista&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
-    </a>
-</p>
