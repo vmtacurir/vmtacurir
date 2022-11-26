@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Manuel+Tacuri+Rengifo;USFX)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://github.com/DenverCoder1">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Victor Manuel Tacuri Rengifo" /></a>
@@ -42,7 +43,6 @@
 
     <h1 align="center">Hi 👋, I'm Victor Manuel Tacuri Rengifo</h1>
     <h3 align="center">.</h3>
-    <h1>Desarrollo Web<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/>SIS-256</h1>
 </div>
 
 ### Hi there My name is Victor Manuel Tacuri Rengifo 👋
@@ -97,3 +97,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmtacurir&show_icons=true&locale=en" alt="vmtacurir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vmtacurir&" alt="vmtacurir" /></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
