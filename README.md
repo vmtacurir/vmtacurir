@@ -42,6 +42,7 @@
 
     <h1 align="center">Hi 👋, I'm Victor Manuel Tacuri Rengifo</h1>
     <h3 align="center">.</h3>
+    <h1>Desarrollo Web <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> SIS-256 </h1>
 </div>
 
 ### Hi there My name is Victor Manuel Tacuri Rengifo 👋
