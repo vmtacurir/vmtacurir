@@ -40,7 +40,10 @@ Here are some ideas to get you started:
 <h2>Perfil Personal</h2>
 <h4>Soy estudiante de Ingeniería de Sistemas con una pasión por la tecnología, el desarrollo de software y la resolución de problemas. Me encanta explorar nuevas tecnologías y aplicarlas para crear soluciones innovadoras. Busco oportunidades para seguir aprendiendo y contribuir con mis habilidades en proyectos desafiantes.</h4>
 <h2>Proyectos destacados</h2>
-<h4>Habilidades</h4>
+<h4>Pacman USFX</h4>
+<h4>Proyecto de Desarrollo de E-comerce</h4>
+<h4>Aplicacion de Qatar Mundial 2022</h4>
+<h4>Sistema de tienda Virtual</h4>
 <h4>Habilidades</h4>
 <h5>Lenguajes de Programación: Python, Java, C++, JavaScript
 Frameworks y Librerías: React, Node.js, Bootstrap
