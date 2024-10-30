@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Manuel+Tacuri+Rengifo;Universidad+Mayor,+Real+y+Pontificia;de+San+Francisco+Xavier+de+Chuquisaca;from+Bolivia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Wet+Paint&size=25&duration=4000&pause=500&color=24C1F7&center=true&random=true&width=435&lines=Victor+Manuel+Tacuri+Rengifo;USFX;From+Bolivia)](https://git.io/typing-svg)
 
 
 <!-- ### Hi there My name is Victor Manuel Tacuri Rengifo 👋-->
