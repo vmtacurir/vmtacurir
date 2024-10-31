@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h4>Aplicacion de Qatar Mundial 2022</h4>
 <h4>Sistema de tienda Virtual</h4>
 <h4>Aplicacion de Reserva de Canchas</h4>
-<h4>Habilidades</h4>
+<h2>Habilidades</h2>
 <h5>Lenguajes de Programación: Python, Java, C++, JavaScript
 Frameworks y Librerías: React, Node.js, Bootstrap
 Herramientas: Git, Docker, VS Code
