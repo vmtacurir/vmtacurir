@@ -1,3 +1,4 @@
+![127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8](https://github.com/user-attachments/assets/e5bb109b-1511-4826-8988-6d3698941dfd)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Wet+Paint&size=25&duration=4000&pause=500&color=24C1F7&center=true&random=true&width=435&lines=Victor+Manuel+Tacuri+Rengifo;USFX;From+Bolivia)](https://git.io/typing-svg)
 
